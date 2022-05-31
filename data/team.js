@@ -30,7 +30,7 @@ const categoryData = [
       designation: "সিনিয়র কর্মকর্তা"
     },
     {
-      photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/277099016_1514056552322282_3077291257872729306_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEnnweEOIHVckx6SkKsQh2fa1ppBEFRswhrWmkEQVGzCDrUEeMVTmNzJkvXJXiiLNNdoNHCsA47tH02bOvC-VWb&_nc_ohc=FxdXtVBkzZoAX9BJR4T&_nc_ht=scontent.fdac41-1.fna&oh=00_AT-NLGXss5tnU5VzcJhA8T9cDF64_IFhUw_MlDUvPkZxQA&oe=628DE9FF",
+      photo: "../img/team/moin.jpg",
       name: "মঈনূল ইসলাম",
       designation: "প্রচারনা সম্পাদক"
     }
