@@ -33,11 +33,6 @@ const categoryData = [
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/277099016_1514056552322282_3077291257872729306_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEnnweEOIHVckx6SkKsQh2fa1ppBEFRswhrWmkEQVGzCDrUEeMVTmNzJkvXJXiiLNNdoNHCsA47tH02bOvC-VWb&_nc_ohc=FxdXtVBkzZoAX9BJR4T&_nc_ht=scontent.fdac41-1.fna&oh=00_AT-NLGXss5tnU5VzcJhA8T9cDF64_IFhUw_MlDUvPkZxQA&oe=628DE9FF",
       name: "মঈনূল ইসলাম",
       designation: "প্রচারনা সম্পাদক"
-    },
-    {
-      photo: "https://scontent-ccu1-1.xx.fbcdn.net/v/t39.30808-6/277812121_511482217256707_353841403628707677_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH_BZ4xRL07OPv899L7-X4y0XbI1JaV6uXRdsjUlpXq5dtXeX6cUCiWTMkm8K4jIwHRZg-S2FQk6Zk9HvWmgUw4&_nc_ohc=s6T1CzxmoM0AX_97bM8&_nc_ht=scontent-ccu1-1.xx&oh=00_AT9qndKRFsKkoL2Iw5oMow1ZVHDrqM1yRTLx4fpoILPcYA&oe=629B2571",
-      name: "আশিকুর রহমান",
-      designation: "সম্পাদক"
     }
   ];
   
