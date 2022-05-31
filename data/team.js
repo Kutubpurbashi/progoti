@@ -16,7 +16,7 @@ const categoryData = [
     },
     {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t1.6435-9/186478028_4084372408326399_1141960088020371870_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFo5-5l5OEEsu86-hJtxRxYFNgc5b8kSvAU2BzlvyRK8A5OaYgA_7s9uTDysC-GgUcEJisj5uo-QqGDpFRSTVuX&_nc_ohc=4eWWZuVtxCAAX-4Bdy0&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT_Kr7FLVOnjpLCnzNUHaHfHQWyYXRYd72COVQuvi8mjcw&oe=62AD36E1",
-      name: "মনির হোসেন",
+      name: "মোহাম্মমদ মনির হোসেন",
       designation: "সদস্য সচিব"
     },
     {
