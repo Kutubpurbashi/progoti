@@ -15,6 +15,12 @@ const categoryData = [
       designation: "উপদেষ্টা"
     },
     {
+      photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
+      name: "মোঃ আমির হোসেন লিটন",
+      designation: "সদস্য"
+    },
+
+    {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t1.6435-9/186478028_4084372408326399_1141960088020371870_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFo5-5l5OEEsu86-hJtxRxYFNgc5b8kSvAU2BzlvyRK8A5OaYgA_7s9uTDysC-GgUcEJisj5uo-QqGDpFRSTVuX&_nc_ohc=4eWWZuVtxCAAX-4Bdy0&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT_Kr7FLVOnjpLCnzNUHaHfHQWyYXRYd72COVQuvi8mjcw&oe=62AD36E1",
       name: "মোহাম্মমদ মনির হোসেন",
       designation: "সদস্য সচিব"
@@ -26,7 +32,7 @@ const categoryData = [
     },
     {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
-      name: "শুভ আহম্মেদ",
+      name: "মোঃ আশিকুল্লাহ রাশেদ",
       designation: "সদস্য"
     },
     {
@@ -36,12 +42,12 @@ const categoryData = [
     },
     {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
-      name: "শুভ আহম্মেদ",
+      name: "মোঃ রবিউল ইসলাম",
       designation: "সদস্য"
     },
     {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
-      name: "শুভ আহম্মেদ",
+      name: "নির্মল সরকার",
       designation: "সদস্য"
     },
     {
