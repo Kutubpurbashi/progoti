@@ -11,6 +11,11 @@ const categoryData = [
     },
     {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
+      name: "মোঃ মঞ্জুরুল ইসলাম",
+      designation: "উপদেষ্টা"
+    },
+    {
+      photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
       name: "হাজী মোঃ শহীদুল্লাহ্",
       designation: "উপদেষ্টা"
     },
@@ -35,6 +40,16 @@ const categoryData = [
       designation: "উপদেষ্টা"
     },
     {
+      photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
+      name: "ডা.আবদুন নূর সায়েম",
+      designation: "উপদেষ্টা"
+    },
+    {
+      photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
+      name: "মাজহারুল ইসলাম মিথুন",
+      designation: "উপদেষ্টা"
+    },
+    {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t31.18172-8/25311330_973649572788537_2724615870662991026_o.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHpM12hDf-qSiQpnbucXH87WxM-v0zRFghbEz6_TNEWCOQSUlHuBCphGhmo00lNbxNdYUpSGJQVqW7-kscstf5O&_nc_ohc=gU7BD_Nuo6IAX-L2yKl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT9GfYeA0_l8-VW6qTmwGFdoSkK1r6JZQDg7vB8gx290Fg&oe=62AC477F",
       name: "এম.এ.জাহের মোল্লা",
       designation: "উপদেষ্টা"
@@ -47,6 +62,11 @@ const categoryData = [
     {
       photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
       name: "ইঞ্জিনিয়ার মোঃ আলাউদ্দিন",
+      designation: "উপদেষ্টা"
+    },
+    {
+      photo: "https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/281803482_3302540959991936_8563885613916259844_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFocYwIlh4-TtXzyqsIK6DqsAwJWX8j-JOwDAlZfyP4k8pvqU9boMCoAzQA-r6qUyvHQ-LhqFygS8FdwUMTUv0S&_nc_ohc=3saXiscYVToAX_XXByl&tn=SGASXOK3c_jEIybK&_nc_ht=scontent.fdac41-1.fna&oh=00_AT8Ti8noTcCSqJTRH8NigwB9Q4legB6D1deaDUCIByrgAA&oe=628D1E84",
+      name: "আলহাজ্ব মুহাম্মদ মাওলানা মামুনুর রশিদ ",
       designation: "উপদেষ্টা"
     },
     {
